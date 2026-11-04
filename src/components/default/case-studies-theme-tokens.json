@@ -1,0 +1,51 @@
+{
+    "collectionName":  "components_default_case_studies_theme_tokens",
+    "info":  {
+                 "displayName":  "Case Studies Theme Tokens",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "bg":  {
+                                  "type":  "string"
+                              },
+                       "surface":  {
+                                       "type":  "string"
+                                   },
+                       "ink":  {
+                                   "type":  "string"
+                               },
+                       "body":  {
+                                    "type":  "string"
+                                },
+                       "muted":  {
+                                     "type":  "string"
+                                 },
+                       "accent1":  {
+                                       "type":  "string"
+                                   },
+                       "accent2":  {
+                                       "type":  "string"
+                                   },
+                       "accent3":  {
+                                       "type":  "string"
+                                   },
+                       "tagText":  {
+                                       "type":  "string"
+                                   },
+                       "cardLabel":  {
+                                         "type":  "string"
+                                     },
+                       "cardLabelHi":  {
+                                           "type":  "string"
+                                       },
+                       "cardCopy":  {
+                                        "type":  "string"
+                                    }
+                   },
+    "config":  {
+
+               }
+}

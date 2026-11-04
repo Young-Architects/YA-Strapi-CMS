@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_faq_headlines",
+    "info":  {
+                 "displayName":  "Faq Headline",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "plain":  {
+                                     "type":  "string"
+                                 },
+                       "accent":  {
+                                      "type":  "string"
+                                  }
+                   },
+    "config":  {
+
+               }
+}

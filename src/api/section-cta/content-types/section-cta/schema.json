@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "section_ctas",
+    "info":  {
+                 "singularName":  "section-cta",
+                 "pluralName":  "section-ctas",
+                 "displayName":  "Section CTA"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "primary":  {
+                                       "type":  "component",
+                                       "component":  "default.section-cta-primary",
+                                       "repeatable":  false
+                                   },
+                       "secondary":  {
+                                         "type":  "component",
+                                         "component":  "default.section-cta-secondary",
+                                         "repeatable":  false
+                                     }
+                   }
+}

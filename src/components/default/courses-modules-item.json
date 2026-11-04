@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_courses_modules_items",
+    "info":  {
+                 "displayName":  "Courses Modules Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

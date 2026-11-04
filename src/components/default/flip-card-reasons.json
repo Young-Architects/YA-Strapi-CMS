@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_flip_card_reasons",
+    "info":  {
+                 "displayName":  "Flip Card Reasons",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "color":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

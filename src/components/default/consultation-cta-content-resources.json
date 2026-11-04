@@ -1,0 +1,23 @@
+{
+    "collectionName":  "components_default_consultation_cta_content_resources",
+    "info":  {
+                 "displayName":  "Consultation Cta Content Resources",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "items":  {
+                                     "type":  "component",
+                                     "component":  "default.consultation-cta-content-resources-items",
+                                     "repeatable":  true
+                                 }
+                   },
+    "config":  {
+
+               }
+}

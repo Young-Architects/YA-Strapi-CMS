@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_our_process_content_tabs",
+    "info":  {
+                 "displayName":  "Our Process Content Tabs",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "ariaLabel":  {
+                                         "type":  "string"
+                                     },
+                       "hint":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

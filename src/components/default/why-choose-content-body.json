@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_why_choose_content_bodies",
+    "info":  {
+                 "displayName":  "Why Choose Content Body",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "text":  {
+                                    "type":  "string"
+                                },
+                       "tone":  {
+                                    "type":  "string"
+                                },
+                       "strong":  {
+                                      "type":  "boolean"
+                                  }
+                   },
+    "config":  {
+
+               }
+}

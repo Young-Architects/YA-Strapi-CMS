@@ -1,0 +1,32 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "motions",
+    "info":  {
+                 "singularName":  "motion",
+                 "pluralName":  "motions",
+                 "displayName":  "Motion"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "easing":  {
+                                      "type":  "component",
+                                      "component":  "default.motion-easing",
+                                      "repeatable":  false
+                                  },
+                       "springs":  {
+                                       "type":  "component",
+                                       "component":  "default.motion-springs",
+                                       "repeatable":  false
+                                   },
+                       "viewport":  {
+                                        "type":  "component",
+                                        "component":  "default.motion-viewport",
+                                        "repeatable":  false
+                                    }
+                   }
+}

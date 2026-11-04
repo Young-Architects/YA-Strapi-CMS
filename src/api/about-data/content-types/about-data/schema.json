@@ -1,0 +1,32 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "about_datas",
+    "info":  {
+                 "singularName":  "about-data",
+                 "pluralName":  "about-datas",
+                 "displayName":  "About-data"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "about1":  {
+                                      "type":  "string"
+                                  },
+                       "about3":  {
+                                      "type":  "string"
+                                  },
+                       "about2":  {
+                                      "type":  "string"
+                                  },
+                       "about4":  {
+                                      "type":  "string"
+                                  },
+                       "about5":  {
+                                      "type":  "string"
+                                  }
+                   }
+}

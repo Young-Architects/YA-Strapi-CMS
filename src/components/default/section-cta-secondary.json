@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_section_cta_secondaries",
+    "info":  {
+                 "displayName":  "Section Cta Secondary",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

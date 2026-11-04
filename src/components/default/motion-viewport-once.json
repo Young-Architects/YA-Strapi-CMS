@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_motion_viewport_onces",
+    "info":  {
+                 "displayName":  "Motion Viewport Once",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "once":  {
+                                    "type":  "boolean"
+                                },
+                       "margin":  {
+                                      "type":  "string"
+                                  }
+                   },
+    "config":  {
+
+               }
+}

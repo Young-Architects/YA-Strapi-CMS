@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_testimonial_students",
+    "info":  {
+                 "displayName":  "Testimonial Students",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "image":  {
+                                     "type":  "string"
+                                 },
+                       "name":  {
+                                    "type":  "string"
+                                },
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "quote":  {
+                                     "type":  "text"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

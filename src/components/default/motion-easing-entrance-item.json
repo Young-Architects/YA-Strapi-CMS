@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_motion_easing_entrance_items",
+    "info":  {
+                 "displayName":  "Motion Easing Entrance Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "decimal"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "main_servicess",
+    "info":  {
+                 "singularName":  "main-services",
+                 "pluralName":  "main-servicess",
+                 "displayName":  "Main Services"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.main-services-content",
+                                       "repeatable":  false
+                                   },
+                       "services":  {
+                                        "type":  "component",
+                                        "component":  "default.main-services-services",
+                                        "repeatable":  true
+                                    }
+                   }
+}

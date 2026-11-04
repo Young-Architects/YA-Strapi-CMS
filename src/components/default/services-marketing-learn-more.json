@@ -1,0 +1,29 @@
+{
+    "collectionName":  "components_default_services_marketing_learn_mores",
+    "info":  {
+                 "displayName":  "Services Marketing Learn More",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "hook":  {
+                                    "type":  "string"
+                                },
+                       "intro":  {
+                                     "type":  "text"
+                                 },
+                       "points":  {
+                                      "type":  "component",
+                                      "component":  "default.services-marketing-learn-more-points-item",
+                                      "repeatable":  true
+                                  },
+                       "conclusion":  {
+                                          "type":  "string"
+                                      }
+                   },
+    "config":  {
+
+               }
+}

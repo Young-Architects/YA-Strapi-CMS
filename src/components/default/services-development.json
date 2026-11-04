@@ -1,0 +1,34 @@
+{
+    "collectionName":  "components_default_services_developments",
+    "info":  {
+                 "displayName":  "Services Development",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "highlights":  {
+                                          "type":  "component",
+                                          "component":  "default.services-development-highlights-item",
+                                          "repeatable":  true
+                                      },
+                       "logo":  {
+                                    "type":  "string"
+                                },
+                       "learnMore":  {
+                                         "type":  "component",
+                                         "component":  "default.services-development-learn-more",
+                                         "repeatable":  false
+                                     }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "services_seos",
+    "info":  {
+                 "singularName":  "services-seo",
+                 "pluralName":  "services-seos",
+                 "displayName":  "Services SEO"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.services-seo-content",
+                                       "repeatable":  false
+                                   },
+                       "organization":  {
+                                            "type":  "component",
+                                            "component":  "default.services-seo-organization",
+                                            "repeatable":  false
+                                        }
+                   }
+}

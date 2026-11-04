@@ -1,0 +1,36 @@
+{
+    "collectionName":  "components_default_footer_content_brands",
+    "info":  {
+                 "displayName":  "Footer Content Brand",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "href":  {
+                                    "type":  "string"
+                                },
+                       "name":  {
+                                    "type":  "string"
+                                },
+                       "ariaLabel":  {
+                                         "type":  "string"
+                                     },
+                       "logoAlt":  {
+                                       "type":  "string"
+                                   },
+                       "subheading":  {
+                                          "type":  "string"
+                                      },
+                       "tagline":  {
+                                       "type":  "string"
+                                   },
+                       "followLabel":  {
+                                           "type":  "string"
+                                       }
+                   },
+    "config":  {
+
+               }
+}

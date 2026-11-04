@@ -1,0 +1,23 @@
+{
+    "collectionName":  "components_default_footer_contents",
+    "info":  {
+                 "displayName":  "Footer Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "brand":  {
+                                     "type":  "component",
+                                     "component":  "default.footer-content-brand",
+                                     "repeatable":  false
+                                 },
+                       "copyright":  {
+                                         "type":  "string"
+                                     }
+                   },
+    "config":  {
+
+               }
+}

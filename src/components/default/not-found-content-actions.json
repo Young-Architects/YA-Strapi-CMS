@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_not_found_content_actions",
+    "info":  {
+                 "displayName":  "Not Found Content Actions",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                },
+                       "external":  {
+                                        "type":  "boolean"
+                                    },
+                       "variant":  {
+                                       "type":  "string"
+                                   }
+                   },
+    "config":  {
+
+               }
+}

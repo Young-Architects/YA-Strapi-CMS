@@ -1,0 +1,28 @@
+{
+    "collectionName":  "components_default_brand_mark_contents",
+    "info":  {
+                 "displayName":  "Brand Mark Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "ariaLabel":  {
+                                         "type":  "string"
+                                     },
+                       "words":  {
+                                     "type":  "component",
+                                     "component":  "default.brand-mark-content-words-item",
+                                     "repeatable":  true
+                                 },
+                       "tagline":  {
+                                       "type":  "component",
+                                       "component":  "default.brand-mark-content-tagline",
+                                       "repeatable":  false
+                                   }
+                   },
+    "config":  {
+
+               }
+}

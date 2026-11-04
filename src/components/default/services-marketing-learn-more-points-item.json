@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_services_marketing_learn_more_points_items",
+    "info":  {
+                 "displayName":  "Services Marketing Learn More Points Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

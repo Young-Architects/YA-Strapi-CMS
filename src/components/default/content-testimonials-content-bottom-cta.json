@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_content_testimonials_content_bottom_ctas",
+    "info":  {
+                 "displayName":  "Content Testimonials Content Bottom Cta",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "pre":  {
+                                   "type":  "string"
+                               },
+                       "highlight":  {
+                                         "type":  "string"
+                                     },
+                       "post":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

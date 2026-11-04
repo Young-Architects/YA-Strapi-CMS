@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_service_tabs_tabs",
+    "info":  {
+                 "displayName":  "Service Tabs Tabs",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "color":  {
+                                     "type":  "string"
+                                 },
+                       "glow":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

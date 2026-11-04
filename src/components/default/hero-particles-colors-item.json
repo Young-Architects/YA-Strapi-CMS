@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_hero_particles_colors_items",
+    "info":  {
+                 "displayName":  "Hero Particles Colors Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

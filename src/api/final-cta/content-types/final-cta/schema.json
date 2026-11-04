@@ -1,0 +1,55 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "final_ctas",
+    "info":  {
+                 "singularName":  "final-cta",
+                 "pluralName":  "final-ctas",
+                 "displayName":  "Final CTA"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "badge":  {
+                                     "type":  "string"
+                                 },
+                       "headline":  {
+                                        "type":  "string"
+                                    },
+                       "headlineAccent":  {
+                                              "type":  "string"
+                                          },
+                       "lead":  {
+                                    "type":  "string"
+                                },
+                       "pills":  {
+                                     "type":  "component",
+                                     "component":  "default.final-cta-pills-item",
+                                     "repeatable":  true
+                                 },
+                       "eyebrow":  {
+                                       "type":  "string"
+                                   },
+                       "primary":  {
+                                       "type":  "component",
+                                       "component":  "default.final-cta-primary",
+                                       "repeatable":  false
+                                   },
+                       "secondary":  {
+                                         "type":  "component",
+                                         "component":  "default.final-cta-secondary",
+                                         "repeatable":  false
+                                     },
+                       "trust":  {
+                                     "type":  "component",
+                                     "component":  "default.final-cta-trust-item",
+                                     "repeatable":  true
+                                 },
+                       "trustTail":  {
+                                         "type":  "string"
+                                     }
+                   }
+}

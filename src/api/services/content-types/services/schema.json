@@ -1,0 +1,32 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "servicess",
+    "info":  {
+                 "singularName":  "services",
+                 "pluralName":  "servicess",
+                 "displayName":  "Services"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "marketing":  {
+                                         "type":  "component",
+                                         "component":  "default.services-marketing",
+                                         "repeatable":  true
+                                     },
+                       "development":  {
+                                           "type":  "component",
+                                           "component":  "default.services-development",
+                                           "repeatable":  true
+                                       },
+                       "designing":  {
+                                         "type":  "component",
+                                         "component":  "default.services-designing",
+                                         "repeatable":  true
+                                     }
+                   }
+}

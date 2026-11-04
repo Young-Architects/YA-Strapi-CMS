@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_case_studies_content_titles",
+    "info":  {
+                 "displayName":  "Case Studies Content Title",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "line1":  {
+                                     "type":  "string"
+                                 },
+                       "emphasis":  {
+                                        "type":  "string"
+                                    }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_consultation_cta_content_services",
+    "info":  {
+                 "displayName":  "Consultation Cta Content Services",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "color":  {
+                                     "type":  "string"
+                                 },
+                       "label":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

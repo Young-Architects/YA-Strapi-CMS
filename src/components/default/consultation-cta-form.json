@@ -1,0 +1,30 @@
+{
+    "collectionName":  "components_default_consultation_cta_forms",
+    "info":  {
+                 "displayName":  "Consultation Cta Form",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "widgetBaseUrl":  {
+                                             "type":  "string"
+                                         },
+                       "embedScript":  {
+                                           "type":  "string"
+                                       },
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "name":  {
+                                    "type":  "string"
+                                },
+                       "minHeight":  {
+                                         "type":  "integer"
+                                     }
+                   },
+    "config":  {
+
+               }
+}

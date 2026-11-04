@@ -1,0 +1,22 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "our_process_particless",
+    "info":  {
+                 "singularName":  "our-process-particles",
+                 "pluralName":  "our-process-particless",
+                 "displayName":  "Our Process Particles"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "particles":  {
+                                         "type":  "component",
+                                         "component":  "default.our-process-particles-particles",
+                                         "repeatable":  true
+                                     }
+                   }
+}

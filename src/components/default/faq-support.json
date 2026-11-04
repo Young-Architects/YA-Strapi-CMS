@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_faq_supports",
+    "info":  {
+                 "displayName":  "Faq Support",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "heading":  {
+                                       "type":  "string"
+                                   },
+                       "subtext":  {
+                                       "type":  "string"
+                                   },
+                       "buttonLabel":  {
+                                           "type":  "string"
+                                       },
+                       "buttonHref":  {
+                                          "type":  "string"
+                                      }
+                   },
+    "config":  {
+
+               }
+}

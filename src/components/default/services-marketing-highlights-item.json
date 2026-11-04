@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_services_marketing_highlights_items",
+    "info":  {
+                 "displayName":  "Services Marketing Highlights Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

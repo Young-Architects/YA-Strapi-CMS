@@ -1,0 +1,30 @@
+{
+    "collectionName":  "components_default_config_flip_card_tint_formulas",
+    "info":  {
+                 "displayName":  "Config Flip Card Tint Formula",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "bgAlphaHex":  {
+                                          "type":  "string"
+                                      },
+                       "borderAlphaHex":  {
+                                              "type":  "string"
+                                          },
+                       "iconAlphaHex":  {
+                                            "type":  "string"
+                                        },
+                       "pulseBaseSeconds":  {
+                                                "type":  "integer"
+                                            },
+                       "pulseStepSeconds":  {
+                                                "type":  "decimal"
+                                            }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,33 @@
+{
+    "collectionName":  "components_default_config_not_found_stars",
+    "info":  {
+                 "displayName":  "Config Not Found Stars",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "count":  {
+                                     "type":  "integer"
+                                 },
+                       "sizes":  {
+                                     "type":  "component",
+                                     "component":  "default.config-not-found-stars-sizes-item",
+                                     "repeatable":  true
+                                 },
+                       "colors":  {
+                                      "type":  "component",
+                                      "component":  "default.config-not-found-stars-colors-item",
+                                      "repeatable":  true
+                                  },
+                       "formula":  {
+                                       "type":  "component",
+                                       "component":  "default.config-not-found-stars-formula",
+                                       "repeatable":  false
+                                   }
+                   },
+    "config":  {
+
+               }
+}

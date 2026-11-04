@@ -1,0 +1,32 @@
+{
+    "collectionName":  "components_default_our_process_contents",
+    "info":  {
+                 "displayName":  "Our Process Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "badge":  {
+                                     "type":  "string"
+                                 },
+                       "headingLead":  {
+                                           "type":  "string"
+                                       },
+                       "headingHighlight":  {
+                                                "type":  "string"
+                                            },
+                       "subheading":  {
+                                          "type":  "string"
+                                      },
+                       "tabs":  {
+                                    "type":  "component",
+                                    "component":  "default.our-process-content-tabs",
+                                    "repeatable":  false
+                                }
+                   },
+    "config":  {
+
+               }
+}

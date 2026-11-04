@@ -1,0 +1,47 @@
+{
+    "collectionName":  "components_default_flip_card_defaults",
+    "info":  {
+                 "displayName":  "Flip Card Defaults",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "logo":  {
+                                    "type":  "string"
+                                },
+                       "qrCode":  {
+                                      "type":  "string"
+                                  },
+                       "phoneNumbers":  {
+                                            "type":  "component",
+                                            "component":  "default.flip-card-defaults-phone-numbers-item",
+                                            "repeatable":  true
+                                        },
+                       "email":  {
+                                     "type":  "string"
+                                 },
+                       "reasonsTitle":  {
+                                            "type":  "string"
+                                        },
+                       "flipPrompt":  {
+                                          "type":  "string"
+                                      },
+                       "backTitle":  {
+                                         "type":  "string"
+                                     },
+                       "logoAlt":  {
+                                       "type":  "string"
+                                   },
+                       "qrAlt":  {
+                                     "type":  "string"
+                                 },
+                       "flipAriaLabel":  {
+                                             "type":  "string"
+                                         }
+                   },
+    "config":  {
+
+               }
+}

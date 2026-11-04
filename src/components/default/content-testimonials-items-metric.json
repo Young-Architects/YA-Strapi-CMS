@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_content_testimonials_items_metrics",
+    "info":  {
+                 "displayName":  "Content Testimonials Items Metric",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 },
+                       "label":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

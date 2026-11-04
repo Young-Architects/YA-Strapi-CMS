@@ -1,0 +1,25 @@
+{
+    "collectionName":  "components_default_motion_easings",
+    "info":  {
+                 "displayName":  "Motion Easing",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "smooth":  {
+                                      "type":  "component",
+                                      "component":  "default.motion-easing-smooth-item",
+                                      "repeatable":  true
+                                  },
+                       "entrance":  {
+                                        "type":  "component",
+                                        "component":  "default.motion-easing-entrance-item",
+                                        "repeatable":  true
+                                    }
+                   },
+    "config":  {
+
+               }
+}

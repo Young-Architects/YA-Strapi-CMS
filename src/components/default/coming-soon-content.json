@@ -1,0 +1,40 @@
+{
+    "collectionName":  "components_default_coming_soon_contents",
+    "info":  {
+                 "displayName":  "Coming Soon Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "badge":  {
+                                     "type":  "string"
+                                 },
+                       "homeLabel":  {
+                                         "type":  "string"
+                                     },
+                       "fallbackDesc":  {
+                                            "type":  "string"
+                                        },
+                       "body":  {
+                                    "type":  "string"
+                                },
+                       "meanwhileLabel":  {
+                                              "type":  "string"
+                                          },
+                       "meanwhile":  {
+                                         "type":  "component",
+                                         "component":  "default.coming-soon-content-meanwhile",
+                                         "repeatable":  true
+                                     },
+                       "actions":  {
+                                       "type":  "component",
+                                       "component":  "default.coming-soon-content-actions",
+                                       "repeatable":  true
+                                   }
+                   },
+    "config":  {
+
+               }
+}

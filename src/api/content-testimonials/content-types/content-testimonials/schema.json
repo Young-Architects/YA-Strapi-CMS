@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "content_testimonialss",
+    "info":  {
+                 "singularName":  "content-testimonials",
+                 "pluralName":  "content-testimonialss",
+                 "displayName":  "Content Testimonials"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.content-testimonials-content",
+                                       "repeatable":  false
+                                   },
+                       "items":  {
+                                     "type":  "component",
+                                     "component":  "default.content-testimonials-items",
+                                     "repeatable":  true
+                                 }
+                   }
+}

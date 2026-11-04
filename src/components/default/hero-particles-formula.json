@@ -1,0 +1,75 @@
+{
+    "collectionName":  "components_default_hero_particles_formulas",
+    "info":  {
+                 "displayName":  "Hero Particles Formula",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "leftBase":  {
+                                        "type":  "integer"
+                                    },
+                       "leftStep":  {
+                                        "type":  "decimal"
+                                    },
+                       "leftRange":  {
+                                         "type":  "integer"
+                                     },
+                       "topBase":  {
+                                       "type":  "integer"
+                                   },
+                       "topStep":  {
+                                       "type":  "decimal"
+                                   },
+                       "topRange":  {
+                                        "type":  "integer"
+                                    },
+                       "glowBlurOffset":  {
+                                              "type":  "integer"
+                                          },
+                       "glowBlurSizeFactor":  {
+                                                  "type":  "integer"
+                                              },
+                       "glowAlphaHex":  {
+                                            "type":  "string"
+                                        },
+                       "durationBase":  {
+                                            "type":  "integer"
+                                        },
+                       "durationStep":  {
+                                            "type":  "decimal"
+                                        },
+                       "durationRange":  {
+                                             "type":  "integer"
+                                         },
+                       "delayStep":  {
+                                         "type":  "decimal"
+                                     },
+                       "delayRange":  {
+                                          "type":  "integer"
+                                      },
+                       "dxStep":  {
+                                      "type":  "integer"
+                                  },
+                       "dxModulo":  {
+                                        "type":  "integer"
+                                    },
+                       "dxCentre":  {
+                                        "type":  "integer"
+                                    },
+                       "dyStep":  {
+                                      "type":  "integer"
+                                  },
+                       "dyModulo":  {
+                                        "type":  "integer"
+                                    },
+                       "dyCentre":  {
+                                        "type":  "integer"
+                                    }
+                   },
+    "config":  {
+
+               }
+}

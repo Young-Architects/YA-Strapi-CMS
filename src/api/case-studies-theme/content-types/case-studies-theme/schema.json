@@ -1,0 +1,30 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "case_studies_themes",
+    "info":  {
+                 "singularName":  "case-studies-theme",
+                 "pluralName":  "case-studies-themes",
+                 "displayName":  "Case Studies Theme"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "tokens":  {
+                                      "type":  "component",
+                                      "component":  "default.case-studies-theme-tokens",
+                                      "repeatable":  false
+                                  },
+                       "gradient":  {
+                                        "type":  "string"
+                                    },
+                       "gradientText":  {
+                                            "type":  "component",
+                                            "component":  "default.case-studies-theme-gradient-text",
+                                            "repeatable":  false
+                                        }
+                   }
+}

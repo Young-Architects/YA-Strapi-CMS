@@ -1,0 +1,26 @@
+{
+    "collectionName":  "components_default_services_designing_learn_mores",
+    "info":  {
+                 "displayName":  "Services Designing Learn More",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "intro":  {
+                                     "type":  "string"
+                                 },
+                       "points":  {
+                                      "type":  "component",
+                                      "component":  "default.services-designing-learn-more-points-item",
+                                      "repeatable":  true
+                                  },
+                       "conclusion":  {
+                                          "type":  "string"
+                                      }
+                   },
+    "config":  {
+
+               }
+}

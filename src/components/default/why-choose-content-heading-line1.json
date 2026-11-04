@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_why_choose_content_heading_line1s",
+    "info":  {
+                 "displayName":  "Why Choose Content Heading Line1",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "text":  {
+                                    "type":  "string"
+                                },
+                       "tone":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

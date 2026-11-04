@@ -1,0 +1,45 @@
+{
+    "collectionName":  "components_default_case_studies_contents",
+    "info":  {
+                 "displayName":  "Case Studies Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "eyebrow":  {
+                                       "type":  "string"
+                                   },
+                       "title":  {
+                                     "type":  "component",
+                                     "component":  "default.case-studies-content-title",
+                                     "repeatable":  false
+                                 },
+                       "intro":  {
+                                     "type":  "string"
+                                 },
+                       "mobileIntro":  {
+                                           "type":  "string"
+                                       },
+                       "indexLabel":  {
+                                          "type":  "string"
+                                      },
+                       "swipeLabel":  {
+                                          "type":  "string"
+                                      },
+                       "trust":  {
+                                     "type":  "component",
+                                     "component":  "default.case-studies-content-trust",
+                                     "repeatable":  false
+                                 },
+                       "card":  {
+                                    "type":  "component",
+                                    "component":  "default.case-studies-content-card",
+                                    "repeatable":  false
+                                }
+                   },
+    "config":  {
+
+               }
+}

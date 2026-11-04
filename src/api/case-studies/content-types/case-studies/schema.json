@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "case_studiess",
+    "info":  {
+                 "singularName":  "case-studies",
+                 "pluralName":  "case-studiess",
+                 "displayName":  "Case Studies"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.case-studies-content",
+                                       "repeatable":  false
+                                   },
+                       "items":  {
+                                     "type":  "component",
+                                     "component":  "default.case-studies-items",
+                                     "repeatable":  true
+                                 }
+                   }
+}

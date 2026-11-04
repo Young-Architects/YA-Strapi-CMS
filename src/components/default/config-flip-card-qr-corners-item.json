@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_config_flip_card_qr_corners_items",
+    "info":  {
+                 "displayName":  "Config Flip Card Qr Corners Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_services_section_content_view_modes",
+    "info":  {
+                 "displayName":  "Services Section Content View Modes",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "stack":  {
+                                     "type":  "string"
+                                 },
+                       "grid":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

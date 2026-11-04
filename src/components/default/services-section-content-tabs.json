@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_services_section_content_tabs",
+    "info":  {
+                 "displayName":  "Services Section Content Tabs",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "ariaLabel":  {
+                                         "type":  "string"
+                                     },
+                       "hint":  {
+                                    "type":  "string"
+                                },
+                       "hintCompact":  {
+                                           "type":  "string"
+                                       },
+                       "unseenLabel":  {
+                                           "type":  "string"
+                                       }
+                   },
+    "config":  {
+
+               }
+}

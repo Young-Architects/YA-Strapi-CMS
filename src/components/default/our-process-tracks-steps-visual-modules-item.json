@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_our_process_tracks_steps_visual_modules_items",
+    "info":  {
+                 "displayName":  "Our Process Tracks Steps Visual Modules Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

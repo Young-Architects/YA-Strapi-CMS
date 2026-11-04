@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "flip_cards",
+    "info":  {
+                 "singularName":  "flip-card",
+                 "pluralName":  "flip-cards",
+                 "displayName":  "Flip Card"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "reasons":  {
+                                       "type":  "component",
+                                       "component":  "default.flip-card-reasons",
+                                       "repeatable":  true
+                                   },
+                       "defaults":  {
+                                        "type":  "component",
+                                        "component":  "default.flip-card-defaults",
+                                        "repeatable":  false
+                                    }
+                   }
+}

@@ -1,0 +1,30 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "config_service_sections",
+    "info":  {
+                 "singularName":  "config-service-section",
+                 "pluralName":  "config-service-sections",
+                 "displayName":  "Config Service Section"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "wireImageAlt":  {
+                                            "type":  "string"
+                                        },
+                       "stats":  {
+                                     "type":  "component",
+                                     "component":  "default.config-service-section-stats",
+                                     "repeatable":  true
+                                 },
+                       "particles":  {
+                                         "type":  "component",
+                                         "component":  "default.config-service-section-particles",
+                                         "repeatable":  true
+                                     }
+                   }
+}

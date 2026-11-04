@@ -1,0 +1,30 @@
+{
+    "collectionName":  "components_default_case_studies_theme_gradient_texts",
+    "info":  {
+                 "displayName":  "Case Studies Theme Gradient Text",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "background":  {
+                                          "type":  "string"
+                                      },
+                       "WebkitBackgroundClip":  {
+                                                    "type":  "string"
+                                                },
+                       "backgroundClip":  {
+                                              "type":  "string"
+                                          },
+                       "WebkitTextFillColor":  {
+                                                   "type":  "string"
+                                               },
+                       "color":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

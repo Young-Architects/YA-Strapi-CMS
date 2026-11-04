@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_services_section_content_modals",
+    "info":  {
+                 "displayName":  "Services Section Content Modal",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "deliverablesLabel":  {
+                                                 "type":  "string"
+                                             }
+                   },
+    "config":  {
+
+               }
+}

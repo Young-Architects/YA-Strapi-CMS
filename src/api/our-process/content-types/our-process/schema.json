@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "our_processs",
+    "info":  {
+                 "singularName":  "our-process",
+                 "pluralName":  "our-processs",
+                 "displayName":  "Our Process"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.our-process-content",
+                                       "repeatable":  false
+                                   },
+                       "tracks":  {
+                                      "type":  "component",
+                                      "component":  "default.our-process-tracks",
+                                      "repeatable":  true
+                                  }
+                   }
+}

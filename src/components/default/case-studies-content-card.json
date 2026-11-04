@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_case_studies_content_cards",
+    "info":  {
+                 "displayName":  "Case Studies Content Card",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "shiftLabel":  {
+                                          "type":  "string"
+                                      },
+                       "shiftLegend":  {
+                                           "type":  "string"
+                                       },
+                       "stackLabel":  {
+                                          "type":  "string"
+                                      }
+                   },
+    "config":  {
+
+               }
+}

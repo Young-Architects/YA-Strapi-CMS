@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_flip_card_defaults_phone_numbers_items",
+    "info":  {
+                 "displayName":  "Flip Card Defaults Phone Numbers Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

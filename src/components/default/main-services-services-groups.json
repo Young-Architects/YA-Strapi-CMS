@@ -1,0 +1,26 @@
+{
+    "collectionName":  "components_default_main_services_services_groups",
+    "info":  {
+                 "displayName":  "Main Services Services Groups",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "icon":  {
+                                    "type":  "string"
+                                },
+                       "items":  {
+                                     "type":  "component",
+                                     "component":  "default.main-services-services-groups-items-item",
+                                     "repeatable":  true
+                                 }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_testimonials_theme_avatar_badges",
+    "info":  {
+                 "displayName":  "Testimonials Theme Avatar Badges",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "gradient":  {
+                                        "type":  "string"
+                                    },
+                       "initials":  {
+                                        "type":  "string"
+                                    }
+                   },
+    "config":  {
+
+               }
+}

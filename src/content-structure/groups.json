@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "sections": {
+    "collectionTypes": {
+      "groups": [
+        {
+          "parent": null,
+          "name": "Config",
+          "id": "grp_2cf64b741e494be899da1999",
+          "children": [
+            {
+              "uid": "api::case-studies-theme.case-studies-theme",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::config-flip-card.config-flip-card",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::hero-particles.hero-particles",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::motion.motion",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::config-not-found.config-not-found",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::config-service-section.config-service-section",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::service-tabs.service-tabs",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::testimonials-theme.testimonials-theme",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::our-process-particles.our-process-particles",
+              "type": "contentType"
+            }
+          ]
+        },
+        {
+          "parent": null,
+          "name": "Content",
+          "id": "grp_8f2711ff96d94ee2b4755e1a",
+          "children": [
+            {
+              "uid": "api::brand-mark.brand-mark",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::case-studies.case-studies",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::coming-soon.coming-soon",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::consultation-cta.consultation-cta",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::faq.faq",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::final-cta.final-cta",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::flip-card.flip-card",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::footer.footer",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::hero.hero",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::main-services.main-services",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::nav.nav",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::not-found.not-found",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::section-cta.section-cta",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::services.services",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::services-section.services-section",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::services-seo.services-seo",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::content-testimonials.content-testimonials",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::why-choose.why-choose",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::our-process.our-process",
+              "type": "contentType"
+            }
+          ]
+        },
+        {
+          "parent": null,
+          "name": "JSON",
+          "id": "grp_ff727825aacb4915bd6c179c",
+          "children": [
+            {
+              "uid": "api::about-data.about-data",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::courses.courses",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::students.students",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::testimonial.testimonial",
+              "type": "contentType"
+            },
+            {
+              "uid": "api::work.work",
+              "type": "contentType"
+            }
+          ]
+        }
+      ]
+    },
+    "singleTypes": {
+      "groups": []
+    }
+  }
+}

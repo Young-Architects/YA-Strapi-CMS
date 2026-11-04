@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_config_not_found_stars_sizes_items",
+    "info":  {
+                 "displayName":  "Config Not Found Stars Sizes Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "decimal"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,22 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "brand_marks",
+    "info":  {
+                 "singularName":  "brand-mark",
+                 "pluralName":  "brand-marks",
+                 "displayName":  "Brand-Mark"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.brand-mark-content",
+                                       "repeatable":  false
+                                   }
+                   }
+}

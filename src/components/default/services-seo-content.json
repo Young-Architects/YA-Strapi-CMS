@@ -1,0 +1,30 @@
+{
+    "collectionName":  "components_default_services_seo_contents",
+    "info":  {
+                 "displayName":  "Services Seo Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "ariaLabel":  {
+                                         "type":  "string"
+                                     },
+                       "heading":  {
+                                       "type":  "string"
+                                   },
+                       "intro":  {
+                                     "type":  "string"
+                                 },
+                       "categoryHeadingSuffix":  {
+                                                     "type":  "string"
+                                                 },
+                       "itemListName":  {
+                                            "type":  "string"
+                                        }
+                   },
+    "config":  {
+
+               }
+}

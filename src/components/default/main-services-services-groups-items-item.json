@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_main_services_services_groups_items_items",
+    "info":  {
+                 "displayName":  "Main Services Services Groups Items Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

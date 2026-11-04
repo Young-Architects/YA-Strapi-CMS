@@ -1,0 +1,25 @@
+{
+    "collectionName":  "components_default_footer_contacts",
+    "info":  {
+                 "displayName":  "Footer Contact",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "phones":  {
+                                      "type":  "component",
+                                      "component":  "default.footer-contact-phones",
+                                      "repeatable":  true
+                                  },
+                       "email":  {
+                                     "type":  "component",
+                                     "component":  "default.footer-contact-email",
+                                     "repeatable":  false
+                                 }
+                   },
+    "config":  {
+
+               }
+}

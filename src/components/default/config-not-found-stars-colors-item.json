@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_config_not_found_stars_colors_items",
+    "info":  {
+                 "displayName":  "Config Not Found Stars Colors Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

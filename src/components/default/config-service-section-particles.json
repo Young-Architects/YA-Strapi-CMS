@@ -1,0 +1,39 @@
+{
+    "collectionName":  "components_default_config_service_section_particles",
+    "info":  {
+                 "displayName":  "Config Service Section Particles",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "width":  {
+                                     "type":  "integer"
+                                 },
+                       "height":  {
+                                      "type":  "integer"
+                                  },
+                       "top":  {
+                                   "type":  "string"
+                               },
+                       "left":  {
+                                    "type":  "string"
+                                },
+                       "background":  {
+                                          "type":  "string"
+                                      },
+                       "filter":  {
+                                      "type":  "string"
+                                  },
+                       "duration":  {
+                                        "type":  "integer"
+                                    },
+                       "delay":  {
+                                     "type":  "decimal"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,33 @@
+{
+    "collectionName":  "components_default_service_tabs_card_offsets",
+    "info":  {
+                 "displayName":  "Service Tabs Card Offsets",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "x":  {
+                                 "type":  "integer"
+                             },
+                       "y":  {
+                                 "type":  "integer"
+                             },
+                       "rotate":  {
+                                      "type":  "integer"
+                                  },
+                       "scale":  {
+                                     "type":  "decimal"
+                                 },
+                       "zIndex":  {
+                                      "type":  "integer"
+                                  },
+                       "opacity":  {
+                                       "type":  "decimal"
+                                   }
+                   },
+    "config":  {
+
+               }
+}

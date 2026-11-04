@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_motion_springs_fasts",
+    "info":  {
+                 "displayName":  "Motion Springs Fast",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "type":  {
+                                    "type":  "string"
+                                },
+                       "stiffness":  {
+                                         "type":  "integer"
+                                     },
+                       "damping":  {
+                                       "type":  "integer"
+                                   },
+                       "mass":  {
+                                    "type":  "decimal"
+                                }
+                   },
+    "config":  {
+
+               }
+}

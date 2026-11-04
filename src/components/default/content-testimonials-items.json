@@ -1,0 +1,44 @@
+{
+    "collectionName":  "components_default_content_testimonials_items",
+    "info":  {
+                 "displayName":  "Content Testimonials Items",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "quote":  {
+                                     "type":  "string"
+                                 },
+                       "author":  {
+                                      "type":  "string"
+                                  },
+                       "role":  {
+                                    "type":  "string"
+                                },
+                       "company":  {
+                                       "type":  "string"
+                                   },
+                       "companyType":  {
+                                           "type":  "string"
+                                       },
+                       "avatar":  {
+                                      "type":  "string"
+                                  },
+                       "avatarImage":  {
+                                           "type":  "string"
+                                       },
+                       "rating":  {
+                                      "type":  "integer"
+                                  },
+                       "metric":  {
+                                      "type":  "component",
+                                      "component":  "default.content-testimonials-items-metric",
+                                      "repeatable":  false
+                                  }
+                   },
+    "config":  {
+
+               }
+}

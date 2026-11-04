@@ -1,0 +1,29 @@
+{
+    "collectionName":  "components_default_nav_contents",
+    "info":  {
+                 "displayName":  "Nav Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "brandHref":  {
+                                         "type":  "string"
+                                     },
+                       "brandLogoAlt":  {
+                                            "type":  "string"
+                                        },
+                       "menuToggleLabel":  {
+                                               "type":  "string"
+                                           },
+                       "cta":  {
+                                   "type":  "component",
+                                   "component":  "default.nav-content-cta",
+                                   "repeatable":  false
+                               }
+                   },
+    "config":  {
+
+               }
+}

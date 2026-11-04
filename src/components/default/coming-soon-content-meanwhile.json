@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_coming_soon_content_meanwhiles",
+    "info":  {
+                 "displayName":  "Coming Soon Content Meanwhile",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

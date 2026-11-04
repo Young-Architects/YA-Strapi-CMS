@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_config_service_section_stats",
+    "info":  {
+                 "displayName":  "Config Service Section Stats",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 },
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "color":  {
+                                     "type":  "string"
+                                 },
+                       "delay":  {
+                                     "type":  "decimal"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

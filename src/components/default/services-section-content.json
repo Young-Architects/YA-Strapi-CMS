@@ -1,0 +1,59 @@
+{
+    "collectionName":  "components_default_services_section_contents",
+    "info":  {
+                 "displayName":  "Services Section Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "badge":  {
+                                     "type":  "string"
+                                 },
+                       "headingLead":  {
+                                           "type":  "string"
+                                       },
+                       "headingLeadTrail":  {
+                                                "type":  "string"
+                                            },
+                       "headingRest":  {
+                                           "type":  "string"
+                                       },
+                       "intro":  {
+                                     "type":  "string"
+                                 },
+                       "tagline":  {
+                                       "type":  "component",
+                                       "component":  "default.services-section-content-tagline",
+                                       "repeatable":  false
+                                   },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "ctaLabel":  {
+                                        "type":  "string"
+                                    },
+                       "ctaHref":  {
+                                       "type":  "string"
+                                   },
+                       "viewModes":  {
+                                         "type":  "component",
+                                         "component":  "default.services-section-content-view-modes",
+                                         "repeatable":  false
+                                     },
+                       "tabs":  {
+                                    "type":  "component",
+                                    "component":  "default.services-section-content-tabs",
+                                    "repeatable":  false
+                                },
+                       "modal":  {
+                                     "type":  "component",
+                                     "component":  "default.services-section-content-modal",
+                                     "repeatable":  false
+                                 }
+                   },
+    "config":  {
+
+               }
+}

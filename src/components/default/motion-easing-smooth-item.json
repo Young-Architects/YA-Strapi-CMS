@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_motion_easing_smooth_items",
+    "info":  {
+                 "displayName":  "Motion Easing Smooth Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "decimal"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

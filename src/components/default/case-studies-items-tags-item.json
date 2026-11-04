@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_case_studies_items_tags_items",
+    "info":  {
+                 "displayName":  "Case Studies Items Tags Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

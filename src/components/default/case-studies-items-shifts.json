@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_case_studies_items_shifts",
+    "info":  {
+                 "displayName":  "Case Studies Items Shifts",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "metric":  {
+                                      "type":  "string"
+                                  },
+                       "before":  {
+                                      "type":  "string"
+                                  },
+                       "after":  {
+                                     "type":  "string"
+                                 },
+                       "fill":  {
+                                    "type":  "integer"
+                                }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,49 @@
+{
+    "collectionName":  "components_default_main_services_services",
+    "info":  {
+                 "displayName":  "Main Services Services",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "kicker":  {
+                                      "type":  "string"
+                                  },
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "icon":  {
+                                    "type":  "string"
+                                },
+                       "taglineStrong":  {
+                                             "type":  "string"
+                                         },
+                       "tagline":  {
+                                       "type":  "string"
+                                   },
+                       "items":  {
+                                     "type":  "component",
+                                     "component":  "default.main-services-services-items",
+                                     "repeatable":  true
+                                 },
+                       "ctaLabel":  {
+                                        "type":  "string"
+                                    },
+                       "href":  {
+                                    "type":  "string"
+                                },
+                       "wide":  {
+                                    "type":  "boolean"
+                                },
+                       "groups":  {
+                                      "type":  "component",
+                                      "component":  "default.main-services-services-groups",
+                                      "repeatable":  true
+                                  }
+                   },
+    "config":  {
+
+               }
+}

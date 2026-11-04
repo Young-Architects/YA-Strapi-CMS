@@ -1,0 +1,30 @@
+{
+    "collectionName":  "components_default_consultation_cta_content_panels",
+    "info":  {
+                 "displayName":  "Consultation Cta Content Panel",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "ref":  {
+                                   "type":  "string"
+                               },
+                       "badge":  {
+                                     "type":  "string"
+                                 },
+                       "headingLine1":  {
+                                            "type":  "string"
+                                        },
+                       "headingLine2":  {
+                                            "type":  "string"
+                                        },
+                       "headingHighlight":  {
+                                                "type":  "string"
+                                            }
+                   },
+    "config":  {
+
+               }
+}

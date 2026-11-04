@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_footer_legals",
+    "info":  {
+                 "displayName":  "Footer Legal",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                },
+                       "icon":  {
+                                    "type":  "string"
+                                },
+                       "desc":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

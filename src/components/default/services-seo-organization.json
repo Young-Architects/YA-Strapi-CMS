@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_services_seo_organizations",
+    "info":  {
+                 "displayName":  "Services Seo Organization",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "name":  {
+                                    "type":  "string"
+                                },
+                       "url":  {
+                                   "type":  "string"
+                               }
+                   },
+    "config":  {
+
+               }
+}

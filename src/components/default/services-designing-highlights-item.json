@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_services_designing_highlights_items",
+    "info":  {
+                 "displayName":  "Services Designing Highlights Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

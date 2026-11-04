@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_final_cta_secondaries",
+    "info":  {
+                 "displayName":  "Final Cta Secondary",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,28 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "coursess",
+    "info":  {
+                 "singularName":  "courses",
+                 "pluralName":  "coursess",
+                 "displayName":  "Courses"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "name":  {
+                                    "type":  "string"
+                                },
+                       "modules":  {
+                                       "type":  "component",
+                                       "component":  "default.courses-modules-item",
+                                       "repeatable":  true
+                                   },
+                       "image":  {
+                                     "type":  "string"
+                                 }
+                   }
+}

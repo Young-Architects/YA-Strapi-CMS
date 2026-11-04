@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_brand_mark_content_words_items",
+    "info":  {
+                 "displayName":  "Brand Mark Content Words Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_students_company_items",
+    "info":  {
+                 "displayName":  "Students Company Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

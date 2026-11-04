@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_final_cta_trust_items",
+    "info":  {
+                 "displayName":  "Final Cta Trust Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

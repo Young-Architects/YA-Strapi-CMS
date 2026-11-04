@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "service_tabss",
+    "info":  {
+                 "singularName":  "service-tabs",
+                 "pluralName":  "service-tabss",
+                 "displayName":  "Service Tabs"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "tabs":  {
+                                    "type":  "component",
+                                    "component":  "default.service-tabs-tabs",
+                                    "repeatable":  true
+                                },
+                       "cardOffsets":  {
+                                           "type":  "component",
+                                           "component":  "default.service-tabs-card-offsets",
+                                           "repeatable":  true
+                                       }
+                   }
+}

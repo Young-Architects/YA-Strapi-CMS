@@ -1,0 +1,34 @@
+{
+    "collectionName":  "components_default_services_designings",
+    "info":  {
+                 "displayName":  "Services Designing",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "highlights":  {
+                                          "type":  "component",
+                                          "component":  "default.services-designing-highlights-item",
+                                          "repeatable":  true
+                                      },
+                       "logo":  {
+                                    "type":  "string"
+                                },
+                       "learnMore":  {
+                                         "type":  "component",
+                                         "component":  "default.services-designing-learn-more",
+                                         "repeatable":  false
+                                     }
+                   },
+    "config":  {
+
+               }
+}

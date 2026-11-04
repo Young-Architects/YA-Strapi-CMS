@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_consultation_cta_content_growth_cards",
+    "info":  {
+                 "displayName":  "Consultation Cta Content Growth Card",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "caption":  {
+                                       "type":  "string"
+                                   },
+                       "legend":  {
+                                      "type":  "string"
+                                  },
+                       "stackLabel":  {
+                                          "type":  "string"
+                                      }
+                   },
+    "config":  {
+
+               }
+}

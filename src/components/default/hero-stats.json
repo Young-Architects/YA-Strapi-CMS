@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_hero_stats",
+    "info":  {
+                 "displayName":  "Hero Stats",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 },
+                       "label":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

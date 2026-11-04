@@ -1,0 +1,40 @@
+{
+    "collectionName":  "components_default_content_testimonials_contents",
+    "info":  {
+                 "displayName":  "Content Testimonials Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "badge":  {
+                                     "type":  "string"
+                                 },
+                       "headingLead":  {
+                                           "type":  "string"
+                                       },
+                       "headingRest":  {
+                                           "type":  "string"
+                                       },
+                       "subheading":  {
+                                          "type":  "string"
+                                      },
+                       "bottomCta":  {
+                                         "type":  "component",
+                                         "component":  "default.content-testimonials-content-bottom-cta",
+                                         "repeatable":  false
+                                     },
+                       "rows":  {
+                                    "type":  "component",
+                                    "component":  "default.content-testimonials-content-rows",
+                                    "repeatable":  true
+                                },
+                       "surface":  {
+                                       "type":  "string"
+                                   }
+                   },
+    "config":  {
+
+               }
+}

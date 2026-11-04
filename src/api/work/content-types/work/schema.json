@@ -1,0 +1,32 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "works",
+    "info":  {
+                 "singularName":  "work",
+                 "pluralName":  "works",
+                 "displayName":  "Work"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "marketing":  {
+                                         "type":  "component",
+                                         "component":  "default.work-marketing",
+                                         "repeatable":  true
+                                     },
+                       "designing":  {
+                                         "type":  "component",
+                                         "component":  "default.work-designing",
+                                         "repeatable":  true
+                                     },
+                       "development":  {
+                                           "type":  "component",
+                                           "component":  "default.work-development",
+                                           "repeatable":  true
+                                       }
+                   }
+}

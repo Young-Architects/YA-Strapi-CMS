@@ -1,0 +1,44 @@
+{
+    "collectionName":  "components_default_not_found_contents",
+    "info":  {
+                 "displayName":  "Not Found Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "code":  {
+                                    "type":  "string"
+                                },
+                       "brandLogoAlt":  {
+                                            "type":  "string"
+                                        },
+                       "brandAriaLabel":  {
+                                              "type":  "string"
+                                          },
+                       "eyebrow":  {
+                                       "type":  "string"
+                                   },
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "footerNote":  {
+                                          "type":  "string"
+                                      },
+                       "sceneAlt":  {
+                                        "type":  "string"
+                                    },
+                       "actions":  {
+                                       "type":  "component",
+                                       "component":  "default.not-found-content-actions",
+                                       "repeatable":  true
+                                   }
+                   },
+    "config":  {
+
+               }
+}

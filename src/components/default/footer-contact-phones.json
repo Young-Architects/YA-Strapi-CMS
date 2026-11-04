@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_footer_contact_phones",
+    "info":  {
+                 "displayName":  "Footer Contact Phones",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "href":  {
+                                    "type":  "string"
+                                },
+                       "label":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

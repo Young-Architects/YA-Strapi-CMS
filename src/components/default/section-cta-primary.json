@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_section_cta_primaries",
+    "info":  {
+                 "displayName":  "Section Cta Primary",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

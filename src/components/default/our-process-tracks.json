@@ -1,0 +1,29 @@
+{
+    "collectionName":  "components_default_our_process_tracks",
+    "info":  {
+                 "displayName":  "Our Process Tracks",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "trackId":  {
+                                       "type":  "string"
+                                   },
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "accent":  {
+                                      "type":  "string"
+                                  },
+                       "steps":  {
+                                     "type":  "component",
+                                     "component":  "default.our-process-tracks-steps",
+                                     "repeatable":  true
+                                 }
+                   },
+    "config":  {
+
+               }
+}

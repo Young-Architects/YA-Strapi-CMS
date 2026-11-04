@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_hero_policy_ctas",
+    "info":  {
+                 "displayName":  "Hero Policy Cta",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

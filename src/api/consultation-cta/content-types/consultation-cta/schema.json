@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "consultation_ctas",
+    "info":  {
+                 "singularName":  "consultation-cta",
+                 "pluralName":  "consultation-ctas",
+                 "displayName":  "Consultation CTA"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "form":  {
+                                    "type":  "component",
+                                    "component":  "default.consultation-cta-form",
+                                    "repeatable":  false
+                                },
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.consultation-cta-content",
+                                       "repeatable":  false
+                                   }
+                   }
+}

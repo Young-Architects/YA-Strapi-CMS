@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_nav_content_ctas",
+    "info":  {
+                 "displayName":  "Nav Content Cta",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "href":  {
+                                    "type":  "string"
+                                },
+                       "label":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

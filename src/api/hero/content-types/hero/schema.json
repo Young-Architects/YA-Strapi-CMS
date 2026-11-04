@@ -1,0 +1,37 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "heros",
+    "info":  {
+                 "singularName":  "hero",
+                 "pluralName":  "heros",
+                 "displayName":  "Hero"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.hero-content",
+                                       "repeatable":  false
+                                   },
+                       "ctas":  {
+                                    "type":  "component",
+                                    "component":  "default.hero-ctas",
+                                    "repeatable":  true
+                                },
+                       "policyCta":  {
+                                         "type":  "component",
+                                         "component":  "default.hero-policy-cta",
+                                         "repeatable":  false
+                                     },
+                       "stats":  {
+                                     "type":  "component",
+                                     "component":  "default.hero-stats",
+                                     "repeatable":  true
+                                 }
+                   }
+}

@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_case_studies_content_trusts",
+    "info":  {
+                 "displayName":  "Case Studies Content Trust",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "lead":  {
+                                    "type":  "string"
+                                },
+                       "strong":  {
+                                      "type":  "string"
+                                  },
+                       "tail":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

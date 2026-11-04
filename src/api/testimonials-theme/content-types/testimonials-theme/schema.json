@@ -1,0 +1,30 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "testimonials_themes",
+    "info":  {
+                 "singularName":  "testimonials-theme",
+                 "pluralName":  "testimonials-themes",
+                 "displayName":  "Testimonials Theme"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "avatarGradients":  {
+                                               "type":  "component",
+                                               "component":  "default.testimonials-theme-avatar-gradients",
+                                               "repeatable":  false
+                                           },
+                       "fallbackGradient":  {
+                                                "type":  "string"
+                                            },
+                       "avatarBadges":  {
+                                            "type":  "component",
+                                            "component":  "default.testimonials-theme-avatar-badges",
+                                            "repeatable":  true
+                                        }
+                   }
+}

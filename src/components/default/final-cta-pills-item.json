@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_final_cta_pills_items",
+    "info":  {
+                 "displayName":  "Final Cta Pills Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "string"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

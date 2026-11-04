@@ -1,0 +1,44 @@
+{
+    "collectionName":  "components_default_our_process_tracks_steps",
+    "info":  {
+                 "displayName":  "Our Process Tracks Steps",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "num":  {
+                                   "type":  "string"
+                               },
+                       "phase":  {
+                                     "type":  "string"
+                                 },
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "desc":  {
+                                    "type":  "string"
+                                },
+                       "tag":  {
+                                   "type":  "string"
+                               },
+                       "icon":  {
+                                    "type":  "string"
+                                },
+                       "accent":  {
+                                      "type":  "string"
+                                  },
+                       "glow":  {
+                                    "type":  "string"
+                                },
+                       "visual":  {
+                                      "type":  "component",
+                                      "component":  "default.our-process-tracks-steps-visual",
+                                      "repeatable":  false
+                                  }
+                   },
+    "config":  {
+
+               }
+}

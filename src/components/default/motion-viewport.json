@@ -1,0 +1,25 @@
+{
+    "collectionName":  "components_default_motion_viewports",
+    "info":  {
+                 "displayName":  "Motion Viewport",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "once":  {
+                                    "type":  "component",
+                                    "component":  "default.motion-viewport-once",
+                                    "repeatable":  false
+                                },
+                       "repeat":  {
+                                      "type":  "component",
+                                      "component":  "default.motion-viewport-repeat",
+                                      "repeatable":  false
+                                  }
+                   },
+    "config":  {
+
+               }
+}

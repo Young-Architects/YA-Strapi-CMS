@@ -1,0 +1,34 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "studentss",
+    "info":  {
+                 "singularName":  "students",
+                 "pluralName":  "studentss",
+                 "displayName":  "Students"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "name":  {
+                                    "type":  "string"
+                                },
+                       "role":  {
+                                    "type":  "string"
+                                },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "image":  {
+                                     "type":  "string"
+                                 },
+                       "company":  {
+                                       "type":  "component",
+                                       "component":  "default.students-company-item",
+                                       "repeatable":  true
+                                   }
+                   }
+}

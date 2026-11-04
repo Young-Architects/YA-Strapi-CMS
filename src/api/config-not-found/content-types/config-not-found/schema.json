@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "config_not_founds",
+    "info":  {
+                 "singularName":  "config-not-found",
+                 "pluralName":  "config-not-founds",
+                 "displayName":  "Config Not Found"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "noise":  {
+                                     "type":  "component",
+                                     "component":  "default.config-not-found-noise",
+                                     "repeatable":  false
+                                 },
+                       "stars":  {
+                                     "type":  "component",
+                                     "component":  "default.config-not-found-stars",
+                                     "repeatable":  false
+                                 }
+                   }
+}

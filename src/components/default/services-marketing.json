@@ -1,0 +1,34 @@
+{
+    "collectionName":  "components_default_services_marketings",
+    "info":  {
+                 "displayName":  "Services Marketing",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "logo":  {
+                                    "type":  "string"
+                                },
+                       "highlights":  {
+                                          "type":  "component",
+                                          "component":  "default.services-marketing-highlights-item",
+                                          "repeatable":  true
+                                      },
+                       "learnMore":  {
+                                         "type":  "component",
+                                         "component":  "default.services-marketing-learn-more",
+                                         "repeatable":  false
+                                     }
+                   },
+    "config":  {
+
+               }
+}

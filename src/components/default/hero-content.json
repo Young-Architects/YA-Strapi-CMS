@@ -1,0 +1,39 @@
+{
+    "collectionName":  "components_default_hero_contents",
+    "info":  {
+                 "displayName":  "Hero Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "eyebrow":  {
+                                       "type":  "string"
+                                   },
+                       "headlineLead":  {
+                                            "type":  "string"
+                                        },
+                       "headlineMain":  {
+                                            "type":  "string"
+                                        },
+                       "subheadline":  {
+                                           "type":  "string"
+                                       },
+                       "brand":  {
+                                     "type":  "string"
+                                 },
+                       "leadBefore":  {
+                                          "type":  "string"
+                                      },
+                       "leadStrong":  {
+                                          "type":  "string"
+                                      },
+                       "leadAfter":  {
+                                         "type":  "string"
+                                     }
+                   },
+    "config":  {
+
+               }
+}

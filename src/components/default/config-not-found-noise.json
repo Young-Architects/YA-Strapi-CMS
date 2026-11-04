@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_config_not_found_noises",
+    "info":  {
+                 "displayName":  "Config Not Found Noise",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "size":  {
+                                    "type":  "integer"
+                                },
+                       "baseFrequency":  {
+                                             "type":  "decimal"
+                                         },
+                       "numOctaves":  {
+                                          "type":  "integer"
+                                      }
+                   },
+    "config":  {
+
+               }
+}

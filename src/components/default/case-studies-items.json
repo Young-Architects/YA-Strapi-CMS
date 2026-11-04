@@ -1,0 +1,40 @@
+{
+    "collectionName":  "components_default_case_studies_items",
+    "info":  {
+                 "displayName":  "Case Studies Items",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "industry":  {
+                                        "type":  "string"
+                                    },
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "hook":  {
+                                    "type":  "string"
+                                },
+                       "summary":  {
+                                       "type":  "string"
+                                   },
+                       "shifts":  {
+                                      "type":  "component",
+                                      "component":  "default.case-studies-items-shifts",
+                                      "repeatable":  true
+                                  },
+                       "tags":  {
+                                    "type":  "component",
+                                    "component":  "default.case-studies-items-tags-item",
+                                    "repeatable":  true
+                                }
+                   },
+    "config":  {
+
+               }
+}

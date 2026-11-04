@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_footer_columns_links",
+    "info":  {
+                 "displayName":  "Footer Columns Links",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

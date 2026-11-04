@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_final_cta_primaries",
+    "info":  {
+                 "displayName":  "Final Cta Primary",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_footer_socials",
+    "info":  {
+                 "displayName":  "Footer Socials",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "iconKey":  {
+                                       "type":  "string"
+                                   },
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,22 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "why_chooses",
+    "info":  {
+                 "singularName":  "why-choose",
+                 "pluralName":  "why-chooses",
+                 "displayName":  "Why Choose"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "content":  {
+                                       "type":  "component",
+                                       "component":  "default.why-choose-content",
+                                       "repeatable":  false
+                                   }
+                   }
+}

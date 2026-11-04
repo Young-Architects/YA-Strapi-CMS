@@ -1,0 +1,30 @@
+{
+    "collectionName":  "components_default_work_marketings",
+    "info":  {
+                 "displayName":  "Work Marketing",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "longDescription":  {
+                                               "type":  "string"
+                                           },
+                       "logo":  {
+                                    "type":  "string"
+                                },
+                       "img":  {
+                                   "type":  "string"
+                               }
+                   },
+    "config":  {
+
+               }
+}

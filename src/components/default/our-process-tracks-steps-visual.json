@@ -1,0 +1,69 @@
+{
+    "collectionName":  "components_default_our_process_tracks_steps_visuals",
+    "info":  {
+                 "displayName":  "Our Process Tracks Steps Visual",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "kind":  {
+                                    "type":  "string"
+                                },
+                       "caption":  {
+                                       "type":  "string"
+                                   },
+                       "visualStatus":  {
+                                            "type":  "string"
+                                        },
+                       "notes":  {
+                                     "type":  "component",
+                                     "component":  "default.our-process-tracks-steps-visual-notes-item",
+                                     "repeatable":  true
+                                 },
+                       "modules":  {
+                                       "type":  "component",
+                                       "component":  "default.our-process-tracks-steps-visual-modules-item",
+                                       "repeatable":  true
+                                   },
+                       "stages":  {
+                                      "type":  "component",
+                                      "component":  "default.our-process-tracks-steps-visual-stages-item",
+                                      "repeatable":  true
+                                  },
+                       "winnerLabel":  {
+                                           "type":  "string"
+                                       },
+                       "cutLabel":  {
+                                        "type":  "string"
+                                    },
+                       "statuses":  {
+                                        "type":  "component",
+                                        "component":  "default.our-process-tracks-steps-visual-statuses-item",
+                                        "repeatable":  true
+                                    },
+                       "ringLabel":  {
+                                         "type":  "string"
+                                     },
+                       "lanes":  {
+                                     "type":  "component",
+                                     "component":  "default.our-process-tracks-steps-visual-lanes-item",
+                                     "repeatable":  true
+                                 },
+                       "stagingLabel":  {
+                                            "type":  "string"
+                                        },
+                       "uptimeLabel":  {
+                                           "type":  "string"
+                                       },
+                       "rows":  {
+                                    "type":  "component",
+                                    "component":  "default.our-process-tracks-steps-visual-rows-item",
+                                    "repeatable":  true
+                                }
+                   },
+    "config":  {
+
+               }
+}

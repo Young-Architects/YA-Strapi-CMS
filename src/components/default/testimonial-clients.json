@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_testimonial_clients",
+    "info":  {
+                 "displayName":  "Testimonial Clients",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "image":  {
+                                     "type":  "string"
+                                 },
+                       "name":  {
+                                    "type":  "string"
+                                },
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "quote":  {
+                                     "type":  "text"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

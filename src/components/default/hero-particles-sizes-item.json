@@ -1,0 +1,18 @@
+{
+    "collectionName":  "components_default_hero_particles_sizes_items",
+    "info":  {
+                 "displayName":  "Hero Particles Sizes Item",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "value":  {
+                                     "type":  "integer"
+                                 }
+                   },
+    "config":  {
+
+               }
+}

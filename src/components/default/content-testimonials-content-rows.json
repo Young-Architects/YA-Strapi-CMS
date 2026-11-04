@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_content_testimonials_content_rows",
+    "info":  {
+                 "displayName":  "Content Testimonials Content Rows",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "direction":  {
+                                         "type":  "string"
+                                     },
+                       "duration":  {
+                                        "type":  "integer"
+                                    }
+                   },
+    "config":  {
+
+               }
+}

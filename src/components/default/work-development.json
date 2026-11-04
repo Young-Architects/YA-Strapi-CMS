@@ -1,0 +1,27 @@
+{
+    "collectionName":  "components_default_work_developments",
+    "info":  {
+                 "displayName":  "Work Development",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "title":  {
+                                     "type":  "string"
+                                 },
+                       "description":  {
+                                           "type":  "string"
+                                       },
+                       "longDescription":  {
+                                               "type":  "string"
+                                           },
+                       "logo":  {
+                                    "type":  "string"
+                                }
+                   },
+    "config":  {
+
+               }
+}

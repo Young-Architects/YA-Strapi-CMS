@@ -1,0 +1,21 @@
+{
+    "collectionName":  "components_default_main_services_services_items",
+    "info":  {
+                 "displayName":  "Main Services Services Items",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "comingSoon":  {
+                                          "type":  "boolean"
+                                      }
+                   },
+    "config":  {
+
+               }
+}

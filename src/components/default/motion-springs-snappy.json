@@ -1,0 +1,24 @@
+{
+    "collectionName":  "components_default_motion_springs_snappies",
+    "info":  {
+                 "displayName":  "Motion Springs Snappy",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "type":  {
+                                    "type":  "string"
+                                },
+                       "stiffness":  {
+                                         "type":  "integer"
+                                     },
+                       "damping":  {
+                                       "type":  "integer"
+                                   }
+                   },
+    "config":  {
+
+               }
+}

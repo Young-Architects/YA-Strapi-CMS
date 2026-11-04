@@ -1,0 +1,32 @@
+{
+    "collectionName":  "components_default_nav_items_children_children",
+    "info":  {
+                 "displayName":  "Nav Items Children Children",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "label":  {
+                                     "type":  "string"
+                                 },
+                       "href":  {
+                                    "type":  "string"
+                                },
+                       "icon":  {
+                                    "type":  "string"
+                                },
+                       "desc":  {
+                                    "type":  "string"
+                                },
+                       "children":  {
+                                        "type":  "component",
+                                        "component":  "default.nav-items-children-children-children",
+                                        "repeatable":  true
+                                    }
+                   },
+    "config":  {
+
+               }
+}

@@ -1,0 +1,30 @@
+{
+    "collectionName":  "components_default_motion_springs",
+    "info":  {
+                 "displayName":  "Motion Springs",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "fast":  {
+                                    "type":  "component",
+                                    "component":  "default.motion-springs-fast",
+                                    "repeatable":  false
+                                },
+                       "dock":  {
+                                    "type":  "component",
+                                    "component":  "default.motion-springs-dock",
+                                    "repeatable":  false
+                                },
+                       "snappy":  {
+                                      "type":  "component",
+                                      "component":  "default.motion-springs-snappy",
+                                      "repeatable":  false
+                                  }
+                   },
+    "config":  {
+
+               }
+}

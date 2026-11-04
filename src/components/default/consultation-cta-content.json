@@ -1,0 +1,55 @@
+{
+    "collectionName":  "components_default_consultation_cta_contents",
+    "info":  {
+                 "displayName":  "Consultation Cta Content",
+                 "icon":  "layer"
+             },
+    "options":  {
+
+                },
+    "attributes":  {
+                       "badge":  {
+                                     "type":  "string"
+                                 },
+                       "headingLead":  {
+                                           "type":  "string"
+                                       },
+                       "headingHighlight":  {
+                                                "type":  "string"
+                                            },
+                       "subheading":  {
+                                          "type":  "string"
+                                      },
+                       "panel":  {
+                                     "type":  "component",
+                                     "component":  "default.consultation-cta-content-panel",
+                                     "repeatable":  false
+                                 },
+                       "points":  {
+                                      "type":  "component",
+                                      "component":  "default.consultation-cta-content-points",
+                                      "repeatable":  true
+                                  },
+                       "growthCard":  {
+                                          "type":  "component",
+                                          "component":  "default.consultation-cta-content-growth-card",
+                                          "repeatable":  false
+                                      },
+                       "services":  {
+                                        "type":  "component",
+                                        "component":  "default.consultation-cta-content-services",
+                                        "repeatable":  true
+                                    },
+                       "trustNote":  {
+                                         "type":  "string"
+                                     },
+                       "resources":  {
+                                         "type":  "component",
+                                         "component":  "default.consultation-cta-content-resources",
+                                         "repeatable":  false
+                                     }
+                   },
+    "config":  {
+
+               }
+}

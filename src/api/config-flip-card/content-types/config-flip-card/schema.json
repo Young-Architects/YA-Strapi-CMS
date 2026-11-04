@@ -1,0 +1,27 @@
+{
+    "kind":  "collectionType",
+    "collectionName":  "config_flip_cards",
+    "info":  {
+                 "singularName":  "config-flip-card",
+                 "pluralName":  "config-flip-cards",
+                 "displayName":  "Config Flip Card"
+             },
+    "options":  {
+                    "draftAndPublish":  false
+                },
+    "pluginOptions":  {
+
+                      },
+    "attributes":  {
+                       "qrCorners":  {
+                                         "type":  "component",
+                                         "component":  "default.config-flip-card-qr-corners-item",
+                                         "repeatable":  true
+                                     },
+                       "tintFormula":  {
+                                           "type":  "component",
+                                           "component":  "default.config-flip-card-tint-formula",
+                                           "repeatable":  false
+                                       }
+                   }
+}
